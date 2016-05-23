@@ -1,0 +1,5 @@
+{
+  "autoload": {
+    "classmap": ["Marvel/", "App/", "Greeting/"]
+  }
+}
